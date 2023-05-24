@@ -33,6 +33,6 @@ int n = sc.nextInt();
 System.out.println();  
 //function calling  
 printPattern(n);  
-secod commit
+third commit
 }  
 }  
