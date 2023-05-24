@@ -32,6 +32,7 @@ System.out.print("Enter the value of n: ");
 int n = sc.nextInt();  
 System.out.println();  
 //function calling  
-printPattern(n);  123456
+printPattern(n);  
+secod commit
 }  
 }  
